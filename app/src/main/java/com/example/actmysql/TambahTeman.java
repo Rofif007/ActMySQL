@@ -28,7 +28,7 @@ public class TambahTeman extends AppCompatActivity {
     String nm,tlp;
     int success;
 
-    private static String url_insert = "http://127.0.0.1/umyTI/tambahtm.php";
+    private static String url_insert = "http://192.168.1.12/umyTI/tambahtm.php";
     private static final String TAG = TambahTeman.class.getSimpleName();
     private static final String TAG_SUCCES = "success";
 
